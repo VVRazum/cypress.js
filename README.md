@@ -5,4 +5,4 @@
 3. Запустить команду в гитбаше (в папке cypress): `npm install`
 4. Установить cypress (в гитбаше): `npm install cypress --save-dev`
 6. Запускать автотесты командой `npm run test` 
-7. Запустить автотест logim.js из Cypress
+7. Запустить автотест login.js из Cypress
